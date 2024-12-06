@@ -1,5 +1,4 @@
 <div id="tools" align="center">
-<h4></h4>
 <img src="svg/python.svg" title="Python" width="45" height="45"/>
 <img src="svg/javascript.svg" title="JavaScript" width="45" height="45"/>
 <img src="svg/react.svg" title="React" width="45" height="45"/>
@@ -14,8 +13,8 @@
 </div>
 
 <div id="header" align="center">
-    <h2>Hello there!👋 I'm  Daniil</h2>
-    <h2>Full Stack Developer from Ukraine</h2>
+    <h2>Hello there!👋 I'm  Daniil<br><br>
+    Full Stack Developer from Ukraine</h2>
 </div>
 
 <h3>About me </h3>
