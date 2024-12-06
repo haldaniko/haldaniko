@@ -12,10 +12,10 @@
 <img src="svg/ubuntu.svg" title="Ubuntu" width="45" height="45"/>
 </div>
 
-<div id="header" align="center">
-    <h2>Hello there!👋 I'm  Daniil<br><br>
-    Full Stack Developer from Ukraine</h2>
-</div>
+
+<h2 align="center">Hello there!👋 I'm  Daniil<br><br>
+Full Stack Developer from Ukraine</h2>
+
 
 <h3>About me </h3>
 
