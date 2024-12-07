@@ -28,17 +28,13 @@ Full Stack Developer from Ukraine</h2>
 <p>
 <a href="mailto:halytskyi.work@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23FF3454.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/haldaniko" target="_blank">
+</a><a href="https://github.com/haldaniko" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">
-</a>
-<a href="https://t.me/Haldwork" target="_blank">
+</a><a href="https://t.me/Haldwork" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/haldaniko" target="_blank">
+</a><a href="https://www.linkedin.com/in/haldaniko" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://haldaniko.com.ua" target="_blank">
+</a><a href="https://haldaniko.com.ua" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-%23FFD700.svg?&style=for-the-badge&logo=website&logoColor=black">
 </a>
 </p>
