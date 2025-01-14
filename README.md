@@ -20,7 +20,7 @@ Full Stack Developer from Ukraine</h2>
 <h3>About me </h3>
 
 - 🌱 I’m currently learning ["Responsive Design"](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- 📚 I’m currently reading **"Clean Architecture" by Robert C. Martin**
+- 📚 I’m currently reading **"Clean Agile" by Robert C. Martin**
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian :)
 
