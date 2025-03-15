@@ -19,11 +19,32 @@ Full Stack Developer from Ukraine</h2>
 
 <h3>About me </h3>
 
-- 🌱 I’m currently learning ["Responsive Design"](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- 📚 I’m currently reading **"Clean Agile" by Robert C. Martin**
+- 🌱 I’m currently learning ["JavaScript Algorithms and Data Structures"]([https://www.freecodecamp.org/learn/2022/responsive-web-design/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/))
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian :)
 
+
+<h3 FreeCodeCamp 2025 Challenge </h3>
+
+✔️ **Responsive Web Design Certification** (23.02.2025)
+- JavaScript Algorithms and Data Structures Certification
+- Front End Development Libraries Certification
+- Data Visualization Certification
+- Relational Database Certification
+- Back End Development and APIs Certification
+- Quality Assurance Certification
+✔️ **Scientific Computing with Python** (26.02.2025)
+- Data Analysis with Python Certification
+- Information Security Certification
+- Machine Learning with Python Certification
+- College Algebra with Python Certification
+
+- A2 English for Developers (Beta) Certification
+- B1 English for Developers (Beta) Certification
+
+- Certified Full Stack Developer Curriculum
+
+  
 <h3>Where to find me</h3>
 <p>
 <a href="mailto:halytskyi.work@gmail.com" target="_blank">
