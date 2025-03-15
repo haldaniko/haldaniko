@@ -26,23 +26,23 @@ Full Stack Developer from Ukraine</h2>
 
 <h3 FreeCodeCamp 2025 Challenge </h3>
 
-✔️ **Responsive Web Design Certification** (23.02.2025)
-- JavaScript Algorithms and Data Structures Certification
-- Front End Development Libraries Certification
-- Data Visualization Certification
-- Relational Database Certification
-- Back End Development and APIs Certification
-- Quality Assurance Certification
-✔️ **Scientific Computing with Python** (26.02.2025)
-- Data Analysis with Python Certification
-- Information Security Certification
-- Machine Learning with Python Certification
-- College Algebra with Python Certification
+✔️ Responsive Web Design Certification (23.02.2025 - 300 hrs)
+> JavaScript Algorithms and Data Structures Certification
+> Front End Development Libraries Certification
+> Data Visualization Certification
+> Relational Database Certification
+> Back End Development and APIs Certification
+> Quality Assurance Certification
+✔️ Scientific Computing with Python (26.02.2025 - 300 hrs)
+> Data Analysis with Python Certification
+> Information Security Certification
+> Machine Learning with Python Certification
+> College Algebra with Python Certification
 
-- A2 English for Developers (Beta) Certification
-- B1 English for Developers (Beta) Certification
+> A2 English for Developers (Beta) Certification
+> B1 English for Developers (Beta) Certification
 
-- Certified Full Stack Developer Curriculum
+> Certified Full Stack Developer Curriculum
 
   
 <h3>Where to find me</h3>
