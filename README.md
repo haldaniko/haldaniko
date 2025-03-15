@@ -19,7 +19,7 @@ Full Stack Developer from Ukraine</h2>
 
 <h3>About me </h3>
 
-- 🌱 I’m currently learning ["JavaScript Algorithms and Data Structures"]([https://www.freecodecamp.org/learn/2022/responsive-web-design/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/))
+- 🌱 I’m currently learning ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/learn/2022/responsive-web-design/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian :)
 
