@@ -43,14 +43,14 @@ Full Stack Developer from Ukraine</h2>
 \> B1 English for Developers (Beta) Certification<br>
 
 \> Certified Full Stack Developer Curriculum<br>
-  [x] HTML<br>
-  [x] CSS<br>
-  [x] JavaScript<br>
-  [x] Frontend Libraries<br>
-  [x] Relational Databases<br>
-  [x] Backend JavaScript<br>
-  [x] Python<br>
-  [x] Certified Full Stack Developer Exam<br>
+- [x] HTML<br>
+- [x] CSS<br>
+- [x] JavaScript<br>
+- [x] Frontend Libraries<br>
+- [x] Relational Databases<br>
+- [x] Backend JavaScript<br>
+- [x] Python<br>
+- [x] Certified Full Stack Developer Exam<br>
 
 
 <h3>Where to find me</h3>
