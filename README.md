@@ -25,6 +25,7 @@ Full Stack Developer from Ukraine</h2>
 
 
 <h3>FreeCodeCamp 2025 Challenge</h3>
+
   - [x] Responsive Web Design Certification (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures Certification<br> 
   - [ ] Front End Development Libraries Certification<br>
