@@ -38,10 +38,10 @@ Full Stack Developer from Ukraine</h2>
   - [ ] Information Security Certification<br>
   - [ ] Machine Learning with Python Certification<br>
   - [ ] College Algebra with Python Certification<br>
-  
+  ---
   - [ ] A2 English for Developers (Beta) Certification<br>
   - [ ] B1 English for Developers (Beta) Certification<br>
-
+  ---
   - [ ] Certified Full Stack Developer Curriculum<br>
     - [ ] HTML<br>
     - [ ] CSS<br>
