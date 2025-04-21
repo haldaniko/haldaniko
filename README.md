@@ -5,12 +5,13 @@
 <img src="svg/django.svg" title="Django" width="45" height="45"/>
 <img src="svg/flask.svg" title="Flask" width="45" height="45"/>
 <img src="svg/docker.svg" title="Docker" width="45" height="45"/>
+<img src="svg/aws.svg" title="Ubuntu" width="45" height="45"/>
+<img src="svg/azure.svg" title="Ubuntu" width="45" height="45"/>
 <img src="svg/html5.svg" title="HTML5" width="45" height="45"/>
 <img src="svg/css3.svg" title="CSS3" width="45" height="45"/>
 <img src="svg/figma.svg" title="Figma" width="45" height="45"/>
 <img src="svg/git.svg" title="git" width="50" height="45"/>&nbsp;
 <img src="svg/ubuntu.svg" title="Ubuntu" width="45" height="45"/>
-<img src="svg/azure.svg" title="Ubuntu" width="45" height="45"/>
 </div>
 
 <h2 align="center">Hello there!👋 I'm  Daniil<br>Full Stack Developer from Ukraine</h2>
