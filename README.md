@@ -10,12 +10,10 @@
 <img src="svg/figma.svg" title="Figma" width="45" height="45"/>
 <img src="svg/git.svg" title="git" width="50" height="45"/>&nbsp;
 <img src="svg/ubuntu.svg" title="Ubuntu" width="45" height="45"/>
+<img src="svg/azure.svg" title="Ubuntu" width="45" height="45"/>
 </div>
 
-
-<h2 align="center">Hello there!👋 I'm  Daniil<br><br>
-Full Stack Developer from Ukraine</h2>
-
+<h2 align="center">Hello there!👋 I'm  Daniil<br>Full Stack Developer from Ukraine</h2>
 
 <h3>About me </h3>
 
