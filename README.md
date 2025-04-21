@@ -42,7 +42,7 @@
   - [ ] B1 English for Developers (Beta) Certification<br>
   ---
   - [ ] Certified Full Stack Developer Curriculum<br>
-    - [ ] HTML<br>
+    - [x] HTML<br>
     - [ ] CSS<br>
     - [ ] JavaScript<br>
     - [ ] Frontend Libraries<br>
