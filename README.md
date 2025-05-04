@@ -22,8 +22,8 @@
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
 
-
-<h3>FreeCodeCamp Challenge</h3>
+---
+<h3>FreeCodeCamp Certifications</h3>
 
   - [x] Responsive Web Design Certification (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures Certification<br> 
@@ -37,10 +37,10 @@
   - [ ] Information Security Certification<br>
   - [ ] Machine Learning with Python Certification<br>
   - [ ] College Algebra with Python Certification<br>
-  ---
+
   - [ ] A2 English for Developers Certification<br>
   - [ ] B1 English for Developers Certification<br>
-  ---
+ 
   - [ ] Certified Full Stack Developer Curriculum<br>
     - [x] HTML<br>
     - [ ] CSS<br>
@@ -50,7 +50,6 @@
     - [ ] Backend JavaScript<br>
     - [ ] Python<br>
     - [ ] Certified Full Stack Developer Exam<br>
-  ---
 <h3>Microsoft Certifications</h3>
 
   - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
