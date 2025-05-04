@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
-- 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian :)
+- 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
 
 
 <h3>FreeCodeCamp Challenge</h3>
