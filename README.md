@@ -23,7 +23,7 @@
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian :)
 
 
-<h3>FreeCodeCamp 2025 Challenge</h3>
+<h3>FreeCodeCamp Challenge</h3>
 
   - [x] Responsive Web Design Certification (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures Certification<br> 
@@ -50,6 +50,13 @@
     - [ ] Backend JavaScript<br>
     - [ ] Python<br>
     - [ ] Certified Full Stack Developer Exam<br>
+
+<h3>Microsoft Certifications</h3>
+  - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
+  - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
+  - [ ] Microsoft Applied Skills: Develop generative AI apps with Azure OpenAI and Semantic Kernel<br>
+  ---
+
 
 
 <h3>Where to find me</h3>
