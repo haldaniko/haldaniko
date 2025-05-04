@@ -50,7 +50,7 @@
     - [ ] Backend JavaScript<br>
     - [ ] Python<br>
     - [ ] Certified Full Stack Developer Exam<br>
-
+  ---
 <h3>Microsoft Certifications</h3>
 
   - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
