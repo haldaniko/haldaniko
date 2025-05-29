@@ -54,6 +54,7 @@
 
   - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
   - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
+  - [ ] Microsoft Certified: Azure Developer Associate (AZ-204)<br>
   - [ ] Microsoft Applied Skills: Develop generative AI apps with Azure OpenAI and Semantic Kernel<br>
   ---
 
