@@ -18,7 +18,7 @@
 
 <h3>About me </h3>
 
-- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) | [Microsoft Developer Path](https://learn.microsoft.com/en-us/collections/2md8ip7z51wd47) | [A2 English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/)
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
 
