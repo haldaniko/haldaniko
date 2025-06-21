@@ -38,7 +38,7 @@
   - [ ] Machine Learning with Python Certification<br>
   - [ ] College Algebra with Python Certification<br>
 
-  - [ ] A2 English for Developers Certification<br>
+  - [x] A2 English for Developers Certification<br>
   - [ ] B1 English for Developers Certification<br>
  
   - [ ] Certified Full Stack Developer Curriculum<br>
