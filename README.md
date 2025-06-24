@@ -25,16 +25,16 @@
 ---
 <h3>FreeCodeCamp Certifications</h3>
 
-  - [x] Responsive Web Design Certification (23.02.2025 - 300 hrs)<br>
-  - [ ] JavaScript Algorithms and Data Structures Certification<br> 
-  - [ ] Front End Development Libraries Certification<br>
-  - [ ] Quality Assurance Certification<br>
+  - [x] Responsive Web Design (23.02.2025 - 300 hrs)<br>
+  - [ ] JavaScript Algorithms and Data Structures<br> 
+  - [ ] Front End Development Libraries<br>
+  - [ ] Quality Assurance<br>
   - [x] Scientific Computing with Python (26.02.2025 - 300 hrs)<br>
-  - [ ] Data Analysis with Python Certification<br>
-  - [ ] College Algebra with Python Certification<br>
+  - [ ] Data Analysis with Python<br>
+  - [ ] College Algebra with Python<br>
 
-  - [x] A2 English for Developers Certification<br>
-  - [ ] B1 English for Developers Certification<br>
+  - [x] A2 English for Developers<br>
+  - [ ] B1 English for Developers<br>
  
   - [ ] Certified Full Stack Developer Curriculum<br>
     - [x] HTML<br>
