@@ -18,7 +18,7 @@
 
 <h3>About me </h3>
 
-- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) | [Microsoft Developer Path](https://learn.microsoft.com/en-us/collections/2md8ip7z51wd47) | [A2 English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/)
+- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) | [Front-end developer]([https://www.freecodecamp.org/learn/a2-english-for-developers/](https://mate.academy/courses/frontend))
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
 
@@ -28,14 +28,9 @@
   - [x] Responsive Web Design Certification (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures Certification<br> 
   - [ ] Front End Development Libraries Certification<br>
-  - [ ] Data Visualization Certification<br>
-  - [ ] Relational Database Certification<br>
-  - [ ] Back End Development and APIs Certification<br>
   - [ ] Quality Assurance Certification<br>
   - [x] Scientific Computing with Python (26.02.2025 - 300 hrs)<br>
   - [ ] Data Analysis with Python Certification<br>
-  - [ ] Information Security Certification<br>
-  - [ ] Machine Learning with Python Certification<br>
   - [ ] College Algebra with Python Certification<br>
 
   - [x] A2 English for Developers Certification<br>
@@ -52,10 +47,15 @@
     - [ ] Certified Full Stack Developer Exam<br>
 <h3>Microsoft Certifications</h3>
 
-  - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
-  - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
-  - [ ] Microsoft Certified: Azure Developer Associate (AZ-204)<br>
-  - [ ] Microsoft Applied Skills: Develop generative AI apps with Azure OpenAI and Semantic Kernel<br>
+- [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
+- [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
+- [ ] Microsoft Certified: Azure Developer Associate (AZ-204)<br>
+
+<h3>Mate Academy Certifications</h3>
+
+  - [x] Python developer (16.09.2025 - 600 hrs)
+  - [ ] Front-end developer (current)
+  - [ ] DevOps enginner
   ---
 
 
