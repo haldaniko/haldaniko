@@ -53,7 +53,7 @@
 
 <h3>Mate Academy Certifications</h3>
 
-  - [x] Python developer (16.09.2025 - 600 hrs)
+  - [x] Python developer (16.09.2024 - 600 hrs)
   - [ ] Front-end developer (current)
   - [ ] DevOps enginner
   ---
