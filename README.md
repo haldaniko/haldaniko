@@ -18,7 +18,7 @@
 
 <h3>About me </h3>
 
-- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) | [Front-end developer](https://mate.academy/courses/frontend)
+- 🌱 I’m currently learning [Front-end developer course](https://mate.academy/courses/frontend) | [B1 English for Developers](https://www.freecodecamp.org/learn/b1-english-for-developers/)
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/) (actually really outdated)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
 
