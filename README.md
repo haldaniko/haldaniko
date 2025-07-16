@@ -23,7 +23,7 @@
 
 ---
 <h1> Educational plan 2025</h1>
-<h3>FreeCodeCamp Certifications</h3>
+<h3>FreeCodeCamp Courses</h3>
 
   - [x] Responsive Web Design (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures<br> 
@@ -37,7 +37,7 @@
 - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
 - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
 
-<h3>Mate Academy Certifications</h3>
+<h3>Mate Academy Courses</h3>
 
   - [ ] Front-end developer
   ---
