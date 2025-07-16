@@ -5,8 +5,7 @@
 <img src="svg/django.svg" title="Django" width="45" height="45"/>
 <img src="svg/flask.svg" title="Flask" width="45" height="45"/>
 <img src="svg/docker.svg" title="Docker" width="45" height="45"/>
-<img src="svg/aws.svg" title="Ubuntu" width="45" height="45"/>
-<img src="svg/azure.svg" title="Ubuntu" width="45" height="45"/>
+<img src="svg/azure.svg" title="Azure" width="45" height="45"/>
 <img src="svg/html5.svg" title="HTML5" width="45" height="45"/>
 <img src="svg/css3.svg" title="CSS3" width="45" height="45"/>
 <img src="svg/figma.svg" title="Figma" width="45" height="45"/>
@@ -23,41 +22,25 @@
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
 
 ---
+<h1> Educational plan 2025</h1>
 <h3>FreeCodeCamp Certifications</h3>
 
   - [x] Responsive Web Design (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures<br> 
-  - [ ] Front End Development Libraries<br>
-  - [ ] Quality Assurance<br>
   - [x] Scientific Computing with Python (26.02.2025 - 300 hrs)<br>
-  - [ ] Data Analysis with Python<br>
   - [ ] College Algebra with Python<br>
-
   - [x] A2 English for Developers<br>
   - [ ] B1 English for Developers<br>
- 
-  - [ ] Certified Full Stack Developer Curriculum<br>
-    - [x] HTML<br>
-    - [ ] CSS<br>
-    - [ ] JavaScript<br>
-    - [ ] Frontend Libraries<br>
-    - [ ] Relational Databases<br>
-    - [ ] Backend JavaScript<br>
-    - [ ] Python<br>
-    - [ ] Certified Full Stack Developer Exam<br>
+
 <h3>Microsoft Certifications</h3>
 
 - [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
 - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
-- [ ] Microsoft Certified: Azure Developer Associate (AZ-204)<br>
 
 <h3>Mate Academy Certifications</h3>
 
-  - [x] Python developer (16.09.2024 - 600 hrs)
-  - [ ] Front-end developer (current)
-  - [ ] DevOps enginner
+  - [ ] Front-end developer
   ---
-
 
 
 <h3>Where to find me</h3>
