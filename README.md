@@ -30,7 +30,7 @@
   - [x] Scientific Computing with Python (26.02.2025 - 300 hrs)<br>
   - [ ] College Algebra with Python<br>
   - [x] A2 English for Developers<br>
-  - [ ] B1 English for Developers<br>
+  - [x] B1 English for Developers<br>
 
 <h3>Microsoft Certifications</h3>
 
