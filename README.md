@@ -20,10 +20,10 @@
 - 🌱 I’m currently learning [Front-end developer course](https://mate.academy/courses/frontend)
 - 📄 Know about my experiences [CV](https://haldaniko.com.ua/document/CV.%20Daniil%20Halytskyi.%20Python%20Developer/) (actually really outdated)
 - 🌍 I speak English, Ukrainian, Russian and German. Currently learning Bulgarian and Arabic :)
-
 ---
-<h1> Educational plan 2025</h1>
-<h3>FreeCodeCamp Courses</h3>
+
+<h3> Educational plan 2025</h3>
+<h4>FreeCodeCamp Courses</h4>
 
   - [x] Responsive Web Design (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures<br> 
@@ -31,7 +31,7 @@
   - [x] A2 English for Developers<br>
   - [x] B1 English for Developers<br>
 
-<h3>FreeCodeCamp Full Stack Developer Curriculum</h3>
+<h4>FreeCodeCamp Full Stack Developer Curriculum</h4>
 
   - [ ] HTML<br>
   - [ ] CSS<br>
@@ -40,11 +40,11 @@
   - [ ] Python<br>
   - [ ] Relational Databases<br>
 
-<h3>Microsoft Certifications</h3>
+<h4>Microsoft Certifications</h4>
 
 - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
 
-<h3>Mate Academy Courses</h3>
+<h4>Mate Academy Courses</h4>
 
   - [ ] Front-end developer
   ---
