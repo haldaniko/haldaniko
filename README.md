@@ -28,13 +28,11 @@
   - [x] Responsive Web Design (23.02.2025 - 300 hrs)<br>
   - [ ] JavaScript Algorithms and Data Structures<br> 
   - [x] Scientific Computing with Python (26.02.2025 - 300 hrs)<br>
-  - [ ] College Algebra with Python<br>
   - [x] A2 English for Developers<br>
   - [x] B1 English for Developers<br>
 
 <h3>Microsoft Certifications</h3>
 
-- [ ] Microsoft Certified: Azure Data Scientist Associate (DP-100)<br>
 - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
 
 <h3>Mate Academy Courses</h3>
