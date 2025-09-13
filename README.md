@@ -31,6 +31,15 @@
   - [x] A2 English for Developers<br>
   - [x] B1 English for Developers<br>
 
+<h3>FreeCodeCamp Full Stack Developer Curriculum</h3>
+
+  - [ ] HTML<br>
+  - [ ] CSS<br>
+  - [ ] JavaScript<br>
+  - [ ] Front End Libraries<br>
+  - [ ] Python<br>
+  - [ ] Relational Databases<br>
+
 <h3>Microsoft Certifications</h3>
 
 - [ ] Microsoft Certified: Azure AI Engineer Associate (AI-102)<br>
