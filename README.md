@@ -33,7 +33,7 @@
 
 <h4>FreeCodeCamp Full Stack Developer Curriculum</h4>
 
-  - [ ] HTML<br>
+  - [x] HTML<br>
   - [ ] CSS<br>
   - [ ] JavaScript<br>
   - [ ] Front End Libraries<br>
