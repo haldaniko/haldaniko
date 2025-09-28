@@ -25,9 +25,9 @@
 <h3> Educational plan 2025</h3>
 <h4>FreeCodeCamp Courses</h4>
 
-  - [x] Responsive Web Design (23.02.2025 - 300 hrs)<br>
+  - [x] Responsive Web Design<br>
   - [ ] JavaScript Algorithms and Data Structures<br> 
-  - [x] Scientific Computing with Python (26.02.2025 - 300 hrs)<br>
+  - [x] Scientific Computing with Python<br>
   - [x] A2 English for Developers<br>
   - [x] B1 English for Developers<br>
 
