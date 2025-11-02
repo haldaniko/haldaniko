@@ -26,7 +26,7 @@
 <h4>FreeCodeCamp Courses</h4>
 
   - [x] Responsive Web Design<br>
-  - [ ] JavaScript Algorithms and Data Structures<br> 
+  - [x] JavaScript Algorithms and Data Structures<br> 
   - [x] Scientific Computing with Python<br>
   - [x] A2 English for Developers<br>
   - [x] B1 English for Developers<br>
